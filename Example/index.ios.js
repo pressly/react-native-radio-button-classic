@@ -16,7 +16,7 @@ var {
 var Radio = require('react-native-radio-button-classic');
 var Option = Radio.Option;
 
-const styles = StyleSheet.create({
+var styles = StyleSheet.create({
   title: {
     fontSize: 18
   },
@@ -32,7 +32,7 @@ class Item extends Component {
   }
 
   render() {
-    const { title, description } = this.props;
+    var { title, description } = this.props;
 
     return (
       <View style={{ paddingTop: 7, paddingLeft: 10 }}>
