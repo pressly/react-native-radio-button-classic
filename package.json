@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-radio-button-classic",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Bring Classic Radio to React-Native",
   "main": "lib/index.js",
   "scripts": {
