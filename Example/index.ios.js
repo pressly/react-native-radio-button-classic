@@ -69,7 +69,7 @@ class Example extends Component {
             <Item title="Second Options" description="This is your Second Option"/>
           </Option>
           <Option color="gray" selectedColor="#008BEF">
-            <Item title="Third Options" description="This is your thrid Option"/>
+            <Item title="Third Options" description="This is your Third Option"/>
           </Option>
         </Radio>
 
