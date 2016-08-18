@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-radio-button-classic",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Bring Classic Radio to React-Native",
   "main": "lib/index.js",
   "scripts": {
@@ -12,7 +12,8 @@
     "url": "git@github.com:pressly/react-native-radio-button-classic.git"
   },
   "peerDependencies": {
-    "react-native": "*"
+    "react-native": "*",
+    "react": "*"
   },
   "keywords": [
     "react-component",
