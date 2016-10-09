@@ -12,7 +12,8 @@
     "url": "git@github.com:pressly/react-native-radio-button-classic.git"
   },
   "peerDependencies": {
-    "react-native": "*"
+    "react-native": "*",
+    "react": "*"
   },
   "keywords": [
     "react-component",
